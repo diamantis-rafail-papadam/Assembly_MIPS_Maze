@@ -8,4 +8,4 @@ Each implementation contains a README file with instructions on how to execute t
 
 In both implementations you can do the following:
 1) Play the game by moving around with keys (W, A, S, D)
-2) Request the program to find a path for you using key (E)
+2) Request the program to find a path for you by using key (E)
